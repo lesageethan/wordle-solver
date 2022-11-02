@@ -1,5 +1,6 @@
 # wordle-solver
-Basic wordle solving algorithm, solves with ~95% success rate
+Basic wordle solving algorithm, solves with ~95% success rate.
+
 Created in February 2022 when people actually still cared about Wordle.
 
 ## How to Use
