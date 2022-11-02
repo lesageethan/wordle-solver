@@ -62,6 +62,11 @@ def notthere(location, letter, words):
             newWords.append(word)
     return newWords
 
+print("This game will suggest a word to enter. Enter that word into the wordle webpage.")
+print("When the word is 'marked', enter the feedback as 5-digit integer like so: Grey=0, Orange=1, Green=2")
+print("For example: 00001 if the first four letters are grey and the last is orange.")
+print("If the suggested word is not accepted by wordle, simply enter 'X'")
+print("###############")
 gameLoop()
 
 
